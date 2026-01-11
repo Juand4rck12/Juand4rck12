@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Juan Diego Orrego Vargas<br>🔭 Actualmente estudiando Desarrollo de Software en el SENA (Servicio Nacional de Aprendizaje)<br>🌱 Aprendiendo Arquitectura de Software, patrones de diseño, desarrollo Full-Stack e inglés.<br>Cuento con un nivel B2 de ingles!
+👋 ¡Hola! Soy Juan Diego Orrego Vargas<br>🔭 Analisis y Desarrollo de Software <br>🌱 Aprendiendo Arquitectura de Software, patrones de diseño, desarrollo Full-Stack e inglés.<br>Cuento con un nivel B2 de ingles!
 
 
 ## 🌐 Socials:
